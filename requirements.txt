@@ -1,4 +1,3 @@
 streamlit==1.41.1
-crewai==0.86.0
+crewai==0.108.0
 litellm
-setuptools==80.9.0
