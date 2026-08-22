@@ -2,3 +2,4 @@ streamlit==1.41.1
 crewai==0.86.0
 litellm
 setuptools
+pkg_resources
