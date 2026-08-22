@@ -1,4 +1,4 @@
 streamlit==1.41.1
 crewai==0.86.0
 litellm
-setuptools
+setuptools==80.9.0
